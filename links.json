@@ -1,5 +1,9 @@
 [
   {
+    "url": "https://github.com/huttontyler/links",
+    "aliases": ["thisrepo"]
+  },
+  {
     "url": "https://bsky.app/profile/tylerhutton.ch",
     "aliases": ["bluesky", "bsky"]
   },
