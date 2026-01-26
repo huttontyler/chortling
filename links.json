@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://bsky.app/profile/tylerhutton.ch",
+    "aliases": ["bluesky", "bsky"]
+  },
+  {
+    "url": "https://github.com/huttontyler",
+    "aliases": ["github", "git"]
+  },
+  {
+    "url": "https://linkedin.com/in/huttontyler/",
+    "aliases": ["linkedin", "in"]
+  }
+  {
+    "url": "https://youtube.com/@huttontyler/",
+    "aliases": ["youtube", "yt"]
+  }
+  {
+    "url": "mailto:post@tylerhutton.ch",
+    "aliases": ["email", "e-mail", "post", "mail"]
+  }
+]
