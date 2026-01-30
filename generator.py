@@ -13,12 +13,13 @@ template = """
 <head>
     <meta charset="utf-8">
     <title>Bitte warten | Please wait</title>
+    <meta name="robots" content="noindex, nofollow">
     <link rel="canonical" href="{url}">
     <meta http-equiv="refresh" content="0; url={url}">
     <script>window.location.replace("{url}")</script>
 </head>
 <body>
-    <p>Sie werden zu <a href="{url}">{url}</a> weitergelietet...</p>
+    <p>Sie werden zu <a href="{url}">{url}</a> weitergeleitet...</p>
     <p>You are being redirected to <a href="{url}">{url}</a>...</p>
 </body>
 </html>
