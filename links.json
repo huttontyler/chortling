@@ -19,6 +19,14 @@
     "url": "https://youtube.com/@huttontyler/",
     "aliases": ["youtube", "yt"]
   },
+    {
+    "url": "https://tylerhutton.ch/en/cv/",
+    "aliases": ["cv"]
+  },
+    {
+    "url": "https://tylerhutton.ch/de/cv/",
+    "aliases": ["lebenslauf"]
+  },
   {
     "url": "mailto:post@tylerhutton.ch",
     "aliases": ["email", "e-mail", "post", "mail"]
